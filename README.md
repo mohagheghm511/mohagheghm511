@@ -2,7 +2,9 @@
 
 # Hi, I'm Mohammad 👋
 
-### Full-stack WordPress & WooCommerce developer · Android · Telegram & Bale bots
+### AI-powered full-stack developer · WordPress & WooCommerce · Android · Telegram & Bale bots
+
+Founder of **[Devox](https://devox.ir)** · Isfahan, Iran · Open to remote work
 
 I build complete business platforms: school management systems, B2B e-commerce stores, corporate websites, mobile apps and automation bots, and I take each one from idea to production.
 
@@ -15,6 +17,8 @@ I build complete business platforms: school management systems, B2B e-commerce s
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?logo=googlesearchconsole&logoColor=white)
 
 </div>
 
@@ -64,8 +68,29 @@ A native Kotlin app with native navigation, live search suggestions, a notificat
 
 ---
 
+## 🧠 How I work
+I use **AI-assisted development** (Claude, Codex) and advanced prompt engineering to ship production-ready products faster, from idea to deployment, and I review and test every result. I also handle **SEO & performance** (PageSpeed 30-40 → 95+).
+
+## 🛠️ Services
+- Custom-coded websites and WordPress sites with custom themes built from scratch
+- Custom WordPress plugins and WooCommerce stores
+- Android apps (Kotlin)
+- Telegram & Bale bots with payment automation
+- SEO, speed optimization and AI integration
+
+## 🎓 Certifications
+- **Advanced Python** (94.5/100), **Machine Learning** (88/100), **Algorithms in Programming** (83.5/100) · Jahad Daneshgahi, Amirkabir University of Technology
+- Python for AI, AI Algorithms, AI Tools (Computer Vision, Speech, ChatGPT bots), Machine Learning, Programming Algorithms, Intro to Python · AIOLearn
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mohaghegh)
+[![Website](https://img.shields.io/badge/devox.ir-00B8D4?logo=googlechrome&logoColor=white)](https://devox.ir)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mohagheghm511)
+
+---
+
 <div align="center">
 
-💼 **Open to freelance and contract work:** custom WordPress systems, WooCommerce stores, Android apps and business bots.
+💼 **Open to freelance and contract work:** custom websites and WordPress systems, WooCommerce stores, Android apps, business bots and AI solutions.
 
 </div>
