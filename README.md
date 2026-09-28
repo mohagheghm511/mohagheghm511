@@ -2,17 +2,18 @@
 
 # Hi, I'm Mohammad 👋
 
-### AI-powered full-stack developer · WordPress & WooCommerce · Android · Telegram & Bale bots
+### AI agent developer · Full-stack developer · WordPress & WooCommerce · Android · Telegram & Bale bots
 
 Founder of **[Devox](https://devox.ir)** · Isfahan, Iran · Open to remote work
 
-I build complete business platforms: school management systems, B2B e-commerce stores, corporate websites, mobile apps and automation bots, and I take each one from idea to production.
+I build complete business platforms: multi-agent AI systems, school management systems, B2B e-commerce stores, corporate websites, mobile apps and automation bots, and I take each one from idea to production.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
@@ -25,6 +26,10 @@ I build complete business platforms: school management systems, B2B e-commerce s
 ---
 
 ## ⭐ Featured Projects
+
+### 🔍 [Lead Intel: Multi-Agent AI Lead Generation Platform](https://github.com/mohagheghm511/lead-intel)
+A team of **7 AI agents** that finds local businesses, audits their website, SEO and Instagram, scores how much they need your services, and writes a **personalised outreach message** for each one in the local language. Includes a free-text research mode, a multi-LLM router (Claude + OpenAI-compatible) and a live dashboard.
+`~7.4k LOC · 7 agents · 10 countries · 8 languages · FastAPI + SSE`
 
 ### 🏫 [Edu Institute: School & Academy Management System](https://github.com/mohagheghm511/edu-institute)
 A complete multi-school ERP on WordPress, **customizable for each school**: attendance, grades and report cards, a **native WebRTC online classroom**, online exams with a question bank, tuition and 12+ payment gateways, SMS, messaging, an AI assistant, and multi-tenant isolation.
@@ -41,6 +46,11 @@ The international build of the school platform: Gregorian calendar, LTR layout, 
 A native Kotlin app with native navigation, live search suggestions, a notification bell, in-app payments, remote config and signed CI builds.
 
 ---
+
+## 🧠 AI Agents
+| Project | Description |
+|---|---|
+| [🔍 Lead Intel](https://github.com/mohagheghm511/lead-intel) | Multi-agent platform: business discovery, digital audit, lead scoring and AI-written outreach |
 
 ## 🌐 WordPress Themes & Websites
 | Project | Description |
@@ -72,6 +82,7 @@ A native Kotlin app with native navigation, live search suggestions, a notificat
 I use **AI-assisted development** (Claude, Codex) and advanced prompt engineering to ship production-ready products faster, from idea to deployment, and I review and test every result. I also handle **SEO & performance** (PageSpeed 30-40 → 95+).
 
 ## 🛠️ Services
+- **AI agent development:** multi-agent systems, LLM integration (Claude, OpenAI) and business automation
 - Custom-coded websites and WordPress sites with custom themes built from scratch
 - Custom WordPress plugins and WooCommerce stores
 - Android apps (Kotlin)
@@ -91,6 +102,6 @@ I use **AI-assisted development** (Claude, Codex) and advanced prompt engineerin
 
 <div align="center">
 
-💼 **Open to freelance and contract work:** custom websites and WordPress systems, WooCommerce stores, Android apps, business bots and AI solutions.
+💼 **Open to freelance and contract work:** custom websites and WordPress systems, WooCommerce stores, Android apps, business bots, AI agents and AI solutions.
 
 </div>
