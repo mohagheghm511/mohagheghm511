@@ -31,6 +31,10 @@ I build complete business platforms: multi-agent AI systems, school management s
 A team of **7 AI agents** that finds local businesses, audits their website, SEO and Instagram, scores how much they need your services, and writes a **personalised outreach message** for each one in the local language. Includes a free-text research mode, a multi-LLM router (Claude + OpenAI-compatible) and a live dashboard.
 `~7.4k LOC · 7 agents · 10 countries · 8 languages · FastAPI + SSE`
 
+### 📈 [ProfitPilot: AI Agent for Revenue & Cost Leaks](https://github.com/mohagheghm511/profitpilot)
+An AI agent that reads a company's contracts, invoices, payments and timesheets, **writes and runs its own Python** to reconcile them, and returns every recoverable amount (duplicate payments, unbilled work, supplier overcharges) with its calculation, evidence and action. A second module discovers manual work and builds automation scripts.
+`Finds $74k on the demo company · Anthropic tool use · FastAPI · 3 languages`
+
 ### 🏫 [Edu Institute: School & Academy Management System](https://github.com/mohagheghm511/edu-institute)
 A complete multi-school ERP on WordPress, **customizable for each school**: attendance, grades and report cards, a **native WebRTC online classroom**, online exams with a question bank, tuition and 12+ payment gateways, SMS, messaging, an AI assistant, and multi-tenant isolation.
 `~34k LOC · 60+ tables · 6 roles · 44 capabilities` · Sold as **[Koosha](https://koosha-edu.ir/)**
@@ -51,6 +55,7 @@ A native Kotlin app with native navigation, live search suggestions, a notificat
 | Project | Description |
 |---|---|
 | [🔍 Lead Intel](https://github.com/mohagheghm511/lead-intel) | Multi-agent platform: business discovery, digital audit, lead scoring and AI-written outreach |
+| [📈 ProfitPilot](https://github.com/mohagheghm511/profitpilot) | AI agent that finds recoverable money in a company's records and builds automations, with proof for each finding |
 
 ## 🌐 WordPress Themes & Websites
 | Project | Description |
