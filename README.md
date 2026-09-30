@@ -35,6 +35,10 @@ A team of **7 AI agents** that finds local businesses, audits their website, SEO
 An AI agent that reads a company's contracts, invoices, payments and timesheets, **writes and runs its own Python** to reconcile them, and returns every recoverable amount (duplicate payments, unbilled work, supplier overcharges) with its calculation, evidence and action. A second module discovers manual work and builds automation scripts.
 `Finds $74k on the demo company · Anthropic tool use · FastAPI · 3 languages`
 
+### 🩺 [MedPilot: AI Diagnostic Second Opinion](https://github.com/mohagheghm511/medpilot)
+Decision support for physicians on undiagnosed patients. The agent reads a patient's whole record, builds a timeline and lab trends, weighs a **ranked differential diagnosis** against the evidence and **PubMed**, flags urgent alerts, and recommends the next tests — with a summary for the doctor and one for the patient. Every finding is verified by the treating physician.
+`Ranked the correct diagnosis 1st on 3 known cases · PubMed · de-identification`
+
 ### 🏫 [Edu Institute: School & Academy Management System](https://github.com/mohagheghm511/edu-institute)
 A complete multi-school ERP on WordPress, **customizable for each school**: attendance, grades and report cards, a **native WebRTC online classroom**, online exams with a question bank, tuition and 12+ payment gateways, SMS, messaging, an AI assistant, and multi-tenant isolation.
 `~34k LOC · 60+ tables · 6 roles · 44 capabilities` · Sold as **[Koosha](https://koosha-edu.ir/)**
@@ -56,6 +60,7 @@ A native Kotlin app with native navigation, live search suggestions, a notificat
 |---|---|
 | [🔍 Lead Intel](https://github.com/mohagheghm511/lead-intel) | Multi-agent platform: business discovery, digital audit, lead scoring and AI-written outreach |
 | [📈 ProfitPilot](https://github.com/mohagheghm511/profitpilot) | AI agent that finds recoverable money in a company's records and builds automations, with proof for each finding |
+| [🩺 MedPilot](https://github.com/mohagheghm511/medpilot) | AI diagnostic second opinion: ranked differential with PubMed evidence, next tests and urgent alerts (decision support) |
 
 ## 🌐 WordPress Themes & Websites
 | Project | Description |
